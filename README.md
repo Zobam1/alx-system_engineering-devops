@@ -1,5 +1,1 @@
-Shell_basics
-
-Shell Permissions
-
-Shell redirections
+0x05-processes_and_signals
